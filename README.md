@@ -1,7 +1,7 @@
 
 # Genomics ORF Detection Pipeline
 
-🎯 **Goal:** This beginner-friendly project helps you understand how bioinformaticians find genes hidden inside DNA sequences — using Python!
+🎯 **Goal:** This project helps you understand how bioinformaticians find genes hidden inside DNA sequences — using Python!
 
 This project simulates random DNA sequences, scores them for biological motifs (short, meaningful patterns), and then identifies **Open Reading Frames (ORFs)** — the stretches of DNA that potentially encode proteins. All code is beginner-friendly and educational, making this an excellent introduction to genomics pipelines!
 
